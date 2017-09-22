@@ -1,3 +1,6 @@
-/.idea/
+#Ignore all files from the folder .idea
+#Ignore all files with extension .iml and .tmp
+
+.idea
 *.iml
 *.tmp
